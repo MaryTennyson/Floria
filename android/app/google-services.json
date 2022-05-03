@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "352865135312",
+    "project_id": "floria-a50e4",
+    "storage_bucket": "floria-a50e4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:352865135312:android:760dbb2545391a13a50cd5",
+        "android_client_info": {
+          "package_name": "com.example.floria"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "352865135312-srmcm3aehf36i99ikk4033qjhvnd0f43.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.floria",
+            "certificate_hash": "f3e8b95ea85e39cef046158f93fceb7979ba3f83"
+          }
+        },
+        {
+          "client_id": "352865135312-sjrn4e6av34ab5ufr6i9jshbgaos4dlb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxaOcUX72EEJn2cvFMVNgFKdhTGgXjvzo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "352865135312-sjrn4e6av34ab5ufr6i9jshbgaos4dlb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
